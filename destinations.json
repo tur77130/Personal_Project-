@@ -1,0 +1,18 @@
+[
+  {
+      "id": 1,
+      "title": "Paris, France",
+      "image": "./images/paris.jpg",
+      "description": "The city of lights, known for its art, fashion, and culture.",
+      "itinerary": ["Eiffel Tower", "Louvre Museum", "Notre-Dame Cathedral"],
+      "location": "48.8566, 2.3522"
+  },
+  {
+      "id": 2,
+      "title": "Tokyo, Japan",
+      "image": "./images/tokyo.jpg",
+      "description": "A vibrant city blending tradition and futuristic innovation.",
+      "itinerary": ["Shibuya Crossing", "Senso-ji Temple", "Mount Fuji"],
+      "location": "35.6895, 139.6917"
+  }
+]
