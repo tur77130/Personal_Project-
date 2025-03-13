@@ -17,4 +17,3 @@ This project is a travel destination website where users can explore various des
 - JavaScript
 - JSON (for data handling)
 - Leaflet.js (for maps)
-- Git (for version control)
