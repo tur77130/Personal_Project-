@@ -25,7 +25,8 @@ if (document.getElementById('destinations-container')) {
 
             card.onclick = () => {
                 localStorage.setItem('selectedDestination', dest.id);
-                window.location = 'destination.html';
+                window.open('destination.html', '_blank');
+;
             };
 
             container.appendChild(card);
@@ -61,7 +62,8 @@ function displayDestinations(destinations) {
 
         card.onclick = () => {
             localStorage.setItem('selectedDestination', dest.id);
-            window.location = 'destination.html';
+            window.open('destination.html', '_blank');
+
         };
 
         container.appendChild(card);
